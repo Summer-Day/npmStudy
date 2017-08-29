@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is npm test demo",
+  "main": "npmStudy.js",
+  "scripts": {
+    "start": "gulp -ws",
+    "test":"hello npm"
+  },
+  "author": "",
+  "license": "ISC"
+}
